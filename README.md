@@ -1,2 +1,0 @@
-# BayesBike.github.io
-Website
