@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+We're using NYC data to better understand the conditions that cause bicycle crashes in NYC.
