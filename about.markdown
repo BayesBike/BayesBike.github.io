@@ -10,9 +10,9 @@ An analysis of bicycle crash data to understand how to make biking safer, based 
 
 Who are we?
 ------------
-[Thomas Proctor](https://github.com/ThomasProctor)
-[Matthew Zadrozny](https://github.com/zadrozny)
-Email us at Thomas.Chapman.Proctor [at] gmail [dot] com and m.zadrozny [at] gmail [dot] com
+[Thomas Proctor](https://github.com/ThomasProctor) and 
+[Matthew Zadrozny](https://github.com/zadrozny).
+Email us at Thomas.Chapman.Proctor [at] gmail [dot] com and m.zadrozny [at] gmail [dot] com.
  
 Why “Bayes Bike”?
 -------------------
